@@ -1,0 +1,4 @@
+OpenAI
+Requests
+BeautifulSoup4
+fitz
